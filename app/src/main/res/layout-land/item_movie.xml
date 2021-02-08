@@ -8,6 +8,7 @@
 
     <ImageView
         android:id="@+id/ivPoster"
+        android:transitionName="poster"
         android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="0dp"
